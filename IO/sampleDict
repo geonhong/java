@@ -1,0 +1,17 @@
+// This is comment
+
+/*
+   ==========================
+   This is multi-line comment
+   ==========================
+ */
+
+key1 value1;
+key2 value2;
+
+listKey1
+(
+ 	listElem1
+	listElem2
+	listElem3
+);
